@@ -50,4 +50,4 @@ Use GitHub Discussions to introduce yourself, propose ideas, or ask for help: [h
 
 ## License
 
-All content in this repository is under the Apple Public Source License v2.0 (APSL) as from the original XNU repository. See [APPLE_LICENSE.md](APPLE_LICENSE.md) for details.
+All content in this repository is under the Apple Public Source License v2.0 (APSL) as from the original XNU repository. See [APPLE_LICENSE](APPLE_LICENSE) for details.
