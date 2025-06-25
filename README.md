@@ -2,7 +2,7 @@
 
 **Status:** ➤ *Initial fork of Apple's XNU kernel repository*
 
-OpenDarwinOS is the first step toward a fully open-source, macOS-compatible operating system. At present, this repository is a direct fork of Apple’s XNU kernel sources. Our goal is to assemble Darwin components into a community-driven project, but we need collaborators to drive development in these key areas for now:
+OpenOSX is the first step toward a fully open-source, macOS-compatible operating system. At present, this repository is a direct fork of Apple’s XNU kernel sources. Our goal is to assemble Darwin components into a community-driven project, but we need collaborators to drive development in these key areas for now:
 
 1. Help analyze, document, and modify the XNU codebase.
 
