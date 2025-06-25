@@ -1,4 +1,4 @@
-# OpenDarwinOS
+# OpenOSX
 
 **Status:** ➤ *Initial fork of Apple's XNU kernel repository*
 
@@ -46,7 +46,7 @@ We welcome anyone interested in operating systems, kernel development, or open-s
 2. Report any build errors or setup issues via GitHub Issues.
 3. Propose scripts or configurations by opening pull requests.
 
-Use GitHub Discussions to introduce yourself, propose ideas, or ask for help: [https://github.com/LibreCorp/OpenDarwinOS/discussions](https://github.com/LibreCorp/OpenDarwinOS/discussions)
+Use GitHub Discussions to introduce yourself, propose ideas, or ask for help: [https://github.com/LibreCorp/OpenOSX/discussions](https://github.com/LibreCorp/OpenOSX/discussions)
 
 ## License
 
